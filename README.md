@@ -14,3 +14,8 @@ cd mathnotebooks
 python pip install uv (if you don't have it already)
 uv sync
 ```
+## Ideas for future notebooks
+- Numerical integration methods (Midpoint, Trapezoid, Simpson's, Monte Carlo)
+- optimization algorithms (gradient descent, Newton's method)
+- cellular automata (Conway's Game of Life, Wolfram's 1D automata)
+- fractals (Mandelbrot, Julia sets)
